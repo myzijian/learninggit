@@ -1,0 +1,6 @@
+first line
+// git stash list
+//git stash save 'add file2'
+//git stash pop 弹出最近一次的代码
+//git stash
+hello world
