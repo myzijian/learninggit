@@ -10,6 +10,6 @@ hello worldfirst line
 /
 
 //
-//check pull request
+//check pull request and merge if it is correct or not.
 //
 git rebase 牢记不要在public branch 上执行rebase
